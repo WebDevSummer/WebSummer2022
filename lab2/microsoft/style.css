@@ -1,0 +1,183 @@
+#icon{
+    margin: 10px 0px 0px 50px; 
+    /* padding: -100px 20px 0px 0px; */
+    display:block;
+    overflow: hidden;
+}
+.highlinks{
+    padding-right:10px;
+    margin-top: -20px;
+    margin-left:190px;
+    display:block;
+    overflow:visible;
+
+}
+#choice{
+    padding-right:10px;
+    margin-top: -18px;
+    margin-left:820px;
+    display:block;
+    overflow:visible;
+    border:0px;
+    outline: 0px;
+}
+a{
+    padding:10px;
+    font-size:13px;
+    font-family:"Helvetica";
+    color:#262626;
+    text-decoration: none;
+}
+#searchh{
+    margin-left: 1020px;
+    margin-top:-23px;
+    display:block;
+}
+#account{
+    margin-left: 1070px;
+    margin-top:-27px;
+    display:block;
+}
+#back{
+    display:block;
+    margin-top:20px;
+    margin-left:45px;
+}
+h1{
+    display:block;
+    margin-top:-280px;
+    margin-left:100px;
+    font-weight: bold;
+    font-size:22px;
+}
+h3{
+    display:block;
+    margin-top: 0px;
+    margin-left:100px;
+    width: 450px;
+    font-size:16px;
+    font-weight: normal;
+}
+h1,h3{
+    
+    font-family:"Helvetica";
+}
+button{
+    width:147px;
+    height:38px;
+    margin-left:100px;
+    margin-top:10px;
+    color:white;
+    background-color:black;
+    border:none;
+}
+button a{
+    color: white;
+    font-size:15px;
+    font-family: "Helvetica";
+    /* font-weight: bold; */
+    margin-left:-15px;
+    margin-top:-10px;
+    display:block;
+}
+#arrow{
+    height: 13px;
+    margin-left:120px;
+    margin-top:-25px;
+    display:block;
+}
+#oneperson{
+    font-size:15px;
+    font-family: "Helvetica";
+    margin-left:35px;
+    font-weight:550;
+}
+#second{
+    height:15px;
+    display: block;
+    margin-top:-25px;
+    margin-left: 418px;
+}
+#teams{
+    display: block;
+    margin-left: 45px;
+    margin-top:173px;
+    width:250px;
+}
+#edge{
+    width: 250px;
+    display: block;
+    margin-left: 316px;
+    margin-top:-140px;
+}
+#drive{
+    display: block;
+    margin-left: 588px;
+    margin-top:-140px;
+    width: 250px;
+}
+#windows{
+    display: block;
+    margin-left: 860px;
+    margin-top:-140px;
+    width: 250px;
+}
+h2{
+    display:inline-block;
+    /* padding-right:55px; */
+    padding-left: 42px;
+    margin-left:5px;
+    font-family: "Helvetica";
+    font-size:20px;
+    font-weight: normal;
+    margin-top: 30px;
+}
+#e{
+    margin-left:73px;
+}
+#o{
+    margin-left:98px;
+}
+#w{
+    margin-left:60px;
+    width:250px;
+    /* margin-top:50px; */
+    position:absolute;
+}
+h4{
+    font-family: "Helvetica";
+    font-size:15px;
+    font-weight: normal;
+    display: inline-block;
+    position:absolute;
+    margin-left:-713px;
+    margin-top: 60px;
+}
+#ft{
+    margin-left:-713px;
+    width:190px;
+}
+#fe{
+    margin-left:-450px;
+    width:230px;
+}
+#fo{
+    margin-left:-172px;
+    width:230px;
+}
+#fw{
+    margin-left:100px;
+    width:230px;
+}
+a:hover, select:hover{
+    text-decoration: underline;
+}
+#last a{
+    position:absolute;
+    font-family:"Helvetica";
+    font-size: 15px;
+    color:#0067B8;
+    /* margin-left:-730px; */
+    font-weight: bold;
+}
+
